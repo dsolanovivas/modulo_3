@@ -1,0 +1,4 @@
+C:\Users\LAB1DPC16\Documents\Projects\SumaYpromedioAppXamari\SumaYpromedioAppXamari\bin\Debug\SumaYpromedioAppXamari.exe
+C:\Users\LAB1DPC16\Documents\Projects\SumaYpromedioAppXamari\SumaYpromedioAppXamari\bin\Debug\SumaYpromedioAppXamari.pdb
+C:\Users\LAB1DPC16\Documents\Projects\SumaYpromedioAppXamari\SumaYpromedioAppXamari\obj\x86\Debug\SumaYpromedioAppXamari.exe
+C:\Users\LAB1DPC16\Documents\Projects\SumaYpromedioAppXamari\SumaYpromedioAppXamari\obj\x86\Debug\SumaYpromedioAppXamari.pdb

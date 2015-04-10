@@ -1,0 +1,4 @@
+C:\Users\LAB1DPC16\Documents\Projects\SumayPromediotodosAppXamari\SumayPromediotodosAppXamari\bin\Debug\SumayPromediotodosAppXamari.exe
+C:\Users\LAB1DPC16\Documents\Projects\SumayPromediotodosAppXamari\SumayPromediotodosAppXamari\bin\Debug\SumayPromediotodosAppXamari.pdb
+C:\Users\LAB1DPC16\Documents\Projects\SumayPromediotodosAppXamari\SumayPromediotodosAppXamari\obj\x86\Debug\SumayPromediotodosAppXamari.exe
+C:\Users\LAB1DPC16\Documents\Projects\SumayPromediotodosAppXamari\SumayPromediotodosAppXamari\obj\x86\Debug\SumayPromediotodosAppXamari.pdb

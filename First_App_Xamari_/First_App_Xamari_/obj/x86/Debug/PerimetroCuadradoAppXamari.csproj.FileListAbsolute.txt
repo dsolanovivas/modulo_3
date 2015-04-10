@@ -1,0 +1,5 @@
+C:\Users\LAB1DPC16\Documents\Projects\First_App_Xamari_\First_App_Xamari_\bin\Debug\First_App_Xamari_.exe
+C:\Users\LAB1DPC16\Documents\Projects\First_App_Xamari_\First_App_Xamari_\bin\Debug\First_App_Xamari_.pdb
+C:\Users\LAB1DPC16\Documents\Projects\First_App_Xamari_\First_App_Xamari_\obj\x86\Debug\PerimetroCuadradoAppXamari.csprojResolveAssemblyReference.cache
+C:\Users\LAB1DPC16\Documents\Projects\First_App_Xamari_\First_App_Xamari_\obj\x86\Debug\First_App_Xamari_.exe
+C:\Users\LAB1DPC16\Documents\Projects\First_App_Xamari_\First_App_Xamari_\obj\x86\Debug\First_App_Xamari_.pdb
